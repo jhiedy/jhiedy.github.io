@@ -1,0 +1,10 @@
+body {
+    color:floralwhite;
+}
+
+p {
+    color:darkred;
+    padding: 15px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
